@@ -6,4 +6,5 @@
     <string name="codigo">Codigo:</string>
     <string name="confirmar">Confirmar</string>
     <string name="listar">Listar</string>
+    <string name="enviar_sms">Enviar Sms</string>
 </resources>
