@@ -10,7 +10,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Lançamento"
+        android:text="@string/lan_amento"
         android:onClick="btLancamentoOnClick"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
